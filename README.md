@@ -3,11 +3,9 @@
 **AgroMaster** | Machine Learning Project
 Department of computer Engineering, University of Ruhuna
 
-| Name |
-|---|---|
-| Ethipola K.J.R.R.W.M.R.E.M.W.P.T.B. |
-| Geeganage S.P. |
-| Nawodya T.H.Y. |
+| Ethipola K.J.R.R.W.M.R.E.M.W.P.T.B.
+| Geeganage S.P.
+| Nawodya T.H.Y. 
 | Chamuditha K.D.T. |
 
 ## Overview
