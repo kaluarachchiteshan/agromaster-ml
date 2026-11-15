@@ -1,7 +1,7 @@
 # Machine Learning-Based Classification of Agricultural Market Price Decline Risk
 
 **Group 41 – AgroMaster** | EC5203 Machine Learning Mini Project
-Department of Electrical and Information Engineering, University of Ruhuna
+Department of computer Engineering, University of Ruhuna
 
 | Name | Registration No. |
 |---|---|
