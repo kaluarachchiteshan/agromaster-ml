@@ -1,0 +1,24 @@
+{
+  "Decision Tree": {
+    "max_depth": 18,
+    "min_samples_leaf": 100
+  },
+  "Gaussian Naive Bayes": {
+    "var_smoothing": 0.001
+  },
+  "Logistic Regression": {
+    "C": 0.1
+  },
+  "Random Forest": {
+    "max_depth": 10,
+    "max_features": "sqrt",
+    "min_samples_leaf": 5
+  },
+  "XGBoost": {
+    "colsample_bytree": 0.7,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "reg_lambda": 1.0,
+    "subsample": 0.7
+  }
+}

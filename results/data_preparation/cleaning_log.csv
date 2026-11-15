@@ -1,0 +1,8 @@
+step,rows,removed,removed_%
+loaded,7919229,0,0.0
+drop exact duplicates,7919229,0,0.0
+drop missing or non-positive prices,7721797,197432,2.493
+"drop modal outside [min, max]",7721796,1,0.0
+drop implausible min/max spread,7716480,5316,0.067
+aggregate same-date reports (median),7716480,0,0.0
+drop suspected entry errors,7715788,692,0.009

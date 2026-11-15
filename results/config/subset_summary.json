@@ -1,0 +1,26 @@
+{
+  "source_rows_total": 75984017,
+  "source_date_range": [
+    "2001-01-10",
+    "2026-04-21"
+  ],
+  "subset_rows": 7919229,
+  "subset_date_range": [
+    "2001-01-10",
+    "2025-11-06"
+  ],
+  "commodities": [
+    "Tomato",
+    "Onion",
+    "Potato",
+    "Brinjal",
+    "Green Chilli"
+  ],
+  "n_series": 2605,
+  "n_markets": 787,
+  "n_states": 25,
+  "selection_rule": ">= 1500 reporting days and >= 8 years span up to 2023-12-31",
+  "rows_development": 7135630,
+  "rows_test": 783599,
+  "file_mb": 32.9
+}

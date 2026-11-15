@@ -1,0 +1,11 @@
+{
+  "extra_features": [
+    "rel_mean_90",
+    "rel_ma_30",
+    "rel_ma_7",
+    "trend_30_90",
+    "cv_30",
+    "change_1",
+    "change_30"
+  ]
+}

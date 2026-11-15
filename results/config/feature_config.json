@@ -1,0 +1,42 @@
+{
+  "num_features": [
+    "min_price",
+    "max_price",
+    "modal_price",
+    "price_spread",
+    "spread_ratio",
+    "modal_lag_1",
+    "modal_lag_7",
+    "modal_lag_30",
+    "ma_7",
+    "ma_30",
+    "volatility_30",
+    "price_momentum",
+    "month",
+    "year",
+    "day_of_year"
+  ],
+  "cat_features": [
+    "commodity",
+    "state",
+    "season"
+  ],
+  "horizon": 7,
+  "hist_days": 90,
+  "ffill_limit": 3,
+  "min_hist": 30,
+  "seasons": {
+    "12": "Winter",
+    "1": "Winter",
+    "2": "Winter",
+    "3": "Summer",
+    "4": "Summer",
+    "5": "Summer",
+    "6": "Monsoon",
+    "7": "Monsoon",
+    "8": "Monsoon",
+    "9": "Monsoon",
+    "10": "Post-monsoon",
+    "11": "Post-monsoon"
+  }
+}
