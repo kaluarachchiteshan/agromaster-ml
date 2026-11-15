@@ -1,14 +1,14 @@
 # Machine Learning-Based Classification of Agricultural Market Price Decline Risk
 
-**Group 41 – AgroMaster** | EC5203 Machine Learning Mini Project
+**AgroMaster** | Machine Learning Project
 Department of computer Engineering, University of Ruhuna
 
-| Name | Registration No. |
+| Name |
 |---|---|
-| Ethipola K.J.R.R.W.M.R.E.M.W.P.T.B. | EG/2023/5589 |
-| Geeganage S.P. | EG/2023/5607 |
-| Nawodya T.H.Y. | EG/2023/5998 |
-| Chamuditha K.D.T. | EG/2023/5537 |
+| Ethipola K.J.R.R.W.M.R.E.M.W.P.T.B. |
+| Geeganage S.P. |
+| Nawodya T.H.Y. |
+| Chamuditha K.D.T. |
 
 ## Overview
 
