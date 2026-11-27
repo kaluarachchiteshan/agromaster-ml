@@ -1,0 +1,4 @@
+scenario,price_vs_90day_avg,expected,predicted,p_High,check
+stable,1.031,Low,Low,0.001,OK
+already_fallen,0.482,High,Medium,0.407,differs
+rising,1.405,Low,Low,0.001,OK
